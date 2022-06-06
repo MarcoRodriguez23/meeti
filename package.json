@@ -1,0 +1,29 @@
+{
+  "name": "03-meeti",
+  "version": "1.0.0",
+  "description": "proyecto de bootstrap 5 y SASS",
+  "main": "index.js",
+  "scripts": {
+    "compilar:sass": "sass --watch src/scss:build/css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MarcoRodriguez23/meeti.git"
+  },
+  "keywords": [
+    "SASS",
+    "BOOTSTRAP",
+    "5",
+    "gulp"
+  ],
+  "author": "Marco Rodriguez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MarcoRodriguez23/meeti/issues"
+  },
+  "homepage": "https://github.com/MarcoRodriguez23/meeti#readme",
+  "devDependencies": {
+    "bootstrap": "^5.1.3",
+    "sass": "^1.52.2"
+  }
+}
